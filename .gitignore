@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+.env
+
+toolingimports.txt
+yarn.lock
+
 # testing
 /coverage
 
